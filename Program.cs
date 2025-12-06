@@ -107,6 +107,7 @@ namespace Tarea1
             // Crear un rectángulo de 4x6
             Rectangulo r = new Rectangulo(4, 6);
             Console.WriteLine("Área del rectángulo: " + r.CalcularArea());
+           
             Console.WriteLine("Perímetro del rectángulo: " + r.CalcularPerimetro());
         }
     }
